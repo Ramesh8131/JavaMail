@@ -8,7 +8,11 @@ The current version is 1.6.2, released in August 2018. Another open source JavaM
 
 Repository for Mail:-
 
-<dependency>
+                 <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-mail</artifactId>
 		</dependency>
+		
+		
+		
+		
