@@ -1,4 +1,5 @@
-# JavaMail
+# What is JavaMail in Spring
+:- Spring Java Mail API. The interfaces and classes for java mail support in spring framework are as follows: MailSender interface: It is the root interface. ... SimpleMailMessage class: It is used to create a simple mail message including from, to, cc, subject and text messages.
 
 JavaMail is a Java API used to send and receive email via SMTP, POP3 and IMAP. JavaMail is built into the Java EE platform, but also provides an optional package for use in Java SE.[1]
 
