@@ -1,3 +1,10 @@
+How to install Java----
+https://vitux.com/how-to-install-java-on-ubuntu-20-04/
+
+How to install Mysql----
+https://vitux.com/how-to-install-and-configure-mysql-in-ubuntu/
+
+
 
 # For Email Accesss Turn On 
 Link:-https://myaccount.google.com/lesssecureapps?pli=1
