@@ -1,3 +1,6 @@
+#how to get hp lapop serial number:
+cmd:---wmic bios get serialnumber
+
 How to install Java----
 https://vitux.com/how-to-install-java-on-ubuntu-20-04/
 
